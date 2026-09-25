@@ -136,12 +136,7 @@ mindmap
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MatteoServone&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoServone&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=pt-br"/>
-
 <img src="https://streak-stats.demolab.com?user=MatteoServone&theme=tokyonight&hide_border=true&locale=pt_BR" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatteoServone&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -169,3 +164,4 @@ mindmap
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
+****
